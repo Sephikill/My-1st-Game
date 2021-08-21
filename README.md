@@ -7,7 +7,7 @@ Pygame installed
 You download the folder
 
 windows
-1st open the folder that you download in cmd 
+1st open the folder that you download in comand prompt 
 in ur terminal
 python main.py
 
